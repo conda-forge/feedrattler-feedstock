@@ -12,7 +12,7 @@ source:
   sha256: 4bf83d22e82063208c3ea0efc597e506fce9c2ec31d42e01e53359b9331509df
 
 build:
-  number: 0
+  number: 1
   noarch: python
   script:
     env:
