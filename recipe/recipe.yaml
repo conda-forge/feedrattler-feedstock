@@ -38,6 +38,7 @@ requirements:
     - typer >=0.15
     - rich >=13.9
     - python-dotenv >=1.0
+    - gh >=2.67.0
 
 tests:
   - python:
