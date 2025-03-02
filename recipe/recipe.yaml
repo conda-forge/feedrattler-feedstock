@@ -1,6 +1,6 @@
 context:
   name: feedrattler
-  version: "0.3.7"
+  version: "0.3.8"
   python_min: "3.11"
 
 package:
@@ -9,7 +9,7 @@ package:
 
 source:
   url: https://github.com/hadim/feedrattler/archive/refs/tags/${{ version }}.zip
-  sha256: 66be0ec17136ccd8dfff5321682e9d4df3c0da1f7141a2a3b5b33f3416a4f718
+  sha256: f6bbba3e762723e383d0da3f104ac7f9f84709f355093a316588950f33537124
 
 build:
   number: 1
